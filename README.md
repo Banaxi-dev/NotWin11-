@@ -55,4 +55,4 @@ setup.exe /product server
 endlocal
 pause
 
-**Full Changelog**: https://github.com/Banaxi-dev/NotWin11-/commits/Win11
+
